@@ -1,3 +1,18 @@
 .alignselfcenter {
     align-self: center;
 }
+
+.carouselImg {
+    width: 50%;
+    margin: auto;
+}
+
+.carouselCaptionMask {
+    background-color: hsla(0, 0%, 0%, 0.4);
+    width: 40%;
+    margin: auto;
+    left:30%;
+    right: auto;
+    bottom: 0;
+    position: absolute;
+}
