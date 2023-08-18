@@ -16,3 +16,7 @@
     bottom: 0;
     position: absolute;
 }
+
+.fullheight {
+    height: 100vh;
+}
